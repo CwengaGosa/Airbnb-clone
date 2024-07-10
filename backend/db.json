@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Cwenga Gosa",
+      "Email": "gosacwenga@gmail.com",
+      "phone": "063 539 4067"
+    },
+    {
+      "id": "2",
+      "name": "Sarah Gosa",
+      "Email": "gosasarah@gmail.com",
+      "phone": "064 539 4067"
+    },
+    {
+      "id": "8faf",
+      "email": "cwenga@zaio.com",
+      "password": "myp@ssw0rd21"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": "1",
+      "startDate": "2024-01-25",
+      "endDate": "2024-02-25",
+      "userId": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": 1,
+      "img": "https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720",
+      "title":"Online Experiences",
+      "description":"Unique activities we can do together, led by a world of hosts.",
+      "bed_num": 4,
+      "bath_num": 3,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 2000,
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "img": "https://image.cnbcfm.com/api/v1/image/106893692-1623151143053Penthouse-Formal-Reception-1--Copyright-of-Candy-London-jpg?v=1623678146",
+      "title":"Penthouse in London",
+      "description":"Enjoy the amazing sights of London with this stunning penthouse",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "£350/night",
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": 2
+    }
+  ]
+}
